@@ -46,13 +46,13 @@ finalize:
 country:
 "Land",
 subtotal:
-"Subtotal",
+"Totalsum",
 rebate:
 "Rabatt",
 apply_promo_code:
 "Rabattkode",
 my_cart:
-"Min kurv",
+"Handlekurv",
 continue_shopping:
 "Fortsett å handle",
 my_cart_content:
