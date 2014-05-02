@@ -252,15 +252,15 @@ payment_require_title:
 configuration_problem:
 "Konfigurasjonsproblem",
 additionnal_information:
-"Enter a message below if you want to send feedback or more information about this problem.",
+"Skriv en beskjed nedenfor om du vil sende beskjed om dette problem til butikkeier.",
 send_error:
-"Send this error to website's owner",
+"Send feilmelding til eier av nettstedet.",
 message_sent:
-"Message sent, thank you",
+"Beksjed er sendt, tusen takk",
 paypalexpress_loading:
 "You will be redirected to Paypal to make the payment soon.",
 paypalexpress_cancelled:
-"You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",
+"Du har kanselert betalingen. Du kan enten trykke på linken nedenfor for å prøve igjen eller fortsette å handle.",
 retry:
 "Prøv igjen",
 error_crawlingfailed_title:
