@@ -12,7 +12,7 @@ checkout:
 close:
 "Lukk",
 name:
-"Navb",
+"Navn",
 company_name:
 "Firmanavn",
 share_by_email:
@@ -224,21 +224,21 @@ error_crawling_failed:
 powered_by:
 "Powered and secured by",
 promocode_rate_format:
-"{0}% discount on your order",
+"{0}% rabatt på din ordre",
 promocode_amount_format:
-"{0} discount on your order",
+"{0} rabatt på din ordre",
 shipping_method_business_days:
-"{0} business days",
+"{0} hverdager",
 shipping_method_business_day:
-"{0} business day",
+"{0} hverdager",
 shipping_method_delivery_time:
 "By {0}", // By 2013-11-28
 welcome:
-"Welcome",
+"Velkommen",
 back:
-"Back",
+"tilbake",
 order_infos:
-"Order infos",
+"Odreinformasjon",
 generic_error_title:
 "Oops, an error occured.",
 promocode_deleted_at_checkout:
