@@ -244,13 +244,13 @@ generic_error_title:
 promocode_deleted_at_checkout:
 "The Discount you used has reached its usage limit while you were doing your checkout. Sorry for this inconvenience.",
 continue_shopping:
-"Continue shopping",
+"Fortsett å handle",
 payment_required_message:
 "The shopping cart for this website has been disabled. If you are the owner of this website, please login into Snipcart dashboard to resolve the issue.",
 payment_require_title:
 "The shopping cart is disabled.",
 configuration_problem:
-"Configuration problem",
+"Konfigurasjonsproblem",
 additionnal_information:
 "Enter a message below if you want to send feedback or more information about this problem.",
 send_error:
@@ -262,7 +262,7 @@ paypalexpress_loading:
 paypalexpress_cancelled:
 "You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",
 retry:
-"Try again",
+"Prøv igjen",
 error_crawlingfailed_title:
 "Something went wrong when validating your order, don't worry, you have not been charged.",
 error_crawling_unreachable:
